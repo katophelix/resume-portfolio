@@ -1,3 +1,3 @@
 # resume
  
-A list of and examples of site I am build and worked on.
+A list of and examples of sites  I have built and worked on.
